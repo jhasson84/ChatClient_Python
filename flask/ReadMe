@@ -1,0 +1,19 @@
+Steps to get the application running
+
+dependencies
+env
+flask
+flask-socketio
+virtualenv
+
+
+1. navigate to */Python_Chat/flask
+	a. source bin/activate
+		i. will enter the flask environment
+	b. python Interface.py
+		i. boots the server
+2. go to http://localhost:5000/
+	a. can use multiple clients
+	b.deactivate command shuts it down
+
+
